@@ -1,0 +1,367 @@
+,cough,fever,sore_throat,shortness_of_breath,head_ache,corona_result,age_60_and_above,test_indication
+0,0,0,0,0,0,False,True,Other
+2,0,0,0,0,0,False,False,Other
+218,0,0,0,0,0,True,False,Other
+234,0,0,0,0,0,True,True,Other
+239,0,0,0,0,0,True,False,Contact with confirmed
+245,1,0,0,0,0,True,False,Other
+281,1,1,0,0,0,True,False,Other
+282,0,1,0,0,0,False,False,Contact with confirmed
+295,0,0,0,0,0,False,False,Abroad
+299,1,1,0,0,0,True,False,Contact with confirmed
+300,0,0,1,0,0,False,False,Contact with confirmed
+310,1,0,0,0,0,False,False,Contact with confirmed
+311,1,0,0,0,0,True,False,Contact with confirmed
+315,0,1,0,0,0,True,False,Other
+320,0,0,0,0,0,False,False,Contact with confirmed
+347,0,1,0,0,0,True,True,Other
+351,0,0,0,0,1,True,False,Other
+352,0,1,0,0,0,False,False,Other
+355,0,1,1,0,0,True,False,Contact with confirmed
+356,1,0,1,0,0,True,False,Contact with confirmed
+357,1,1,1,0,0,False,False,Other
+361,0,1,0,0,1,True,False,Contact with confirmed
+366,0,1,1,0,0,True,False,Other
+374,1,1,1,0,1,True,False,Other
+375,0,1,0,0,1,True,False,Other
+376,0,0,1,0,0,True,False,Contact with confirmed
+379,0,0,1,0,0,True,False,Other
+382,0,0,1,0,1,False,False,Contact with confirmed
+386,1,1,1,0,0,False,False,Contact with confirmed
+387,0,0,0,0,1,True,False,Contact with confirmed
+393,1,0,1,0,0,False,False,Contact with confirmed
+394,0,1,1,0,1,False,False,Contact with confirmed
+400,1,0,0,0,1,False,False,Contact with confirmed
+402,0,1,0,0,1,False,False,Contact with confirmed
+403,0,0,0,0,1,False,False,Contact with confirmed
+407,1,1,1,0,0,True,False,Other
+411,0,0,0,0,1,False,False,Other
+412,1,1,0,1,0,True,False,Contact with confirmed
+417,0,1,0,0,0,True,False,Contact with confirmed
+419,1,0,0,1,1,True,False,Contact with confirmed
+440,1,1,0,0,1,True,False,Contact with confirmed
+449,0,0,1,0,1,True,False,Contact with confirmed
+456,1,0,0,0,1,True,False,Other
+462,1,0,0,0,0,True,True,Contact with confirmed
+467,1,0,1,1,1,True,False,Other
+468,0,1,1,0,1,False,False,Other
+476,1,1,1,0,1,False,False,Contact with confirmed
+477,0,1,0,1,1,True,False,Contact with confirmed
+480,0,0,0,0,1,True,True,Other
+482,1,0,0,0,1,True,False,Contact with confirmed
+491,1,1,0,0,0,True,True,Contact with confirmed
+493,1,1,0,0,0,False,False,Contact with confirmed
+497,1,1,1,1,1,True,False,Other
+515,1,1,0,0,1,False,False,Contact with confirmed
+517,1,1,0,0,0,False,False,Other
+549,1,0,1,0,1,True,False,Other
+552,1,0,0,0,0,False,False,Other
+553,1,1,1,0,0,True,False,Contact with confirmed
+579,0,1,0,0,1,False,False,Other
+629,0,1,0,1,0,True,False,Contact with confirmed
+633,1,0,1,1,1,True,False,Contact with confirmed
+643,1,0,1,0,0,True,False,Other
+674,0,0,1,0,1,True,False,Other
+682,1,0,0,1,0,True,True,Other
+683,0,0,0,0,1,True,True,Contact with confirmed
+699,1,0,0,0,0,True,True,Other
+700,1,1,0,0,1,True,False,Other
+703,0,0,0,1,0,True,True,Contact with confirmed
+704,0,0,0,0,0,True,True,Contact with confirmed
+707,0,0,1,0,0,True,True,Other
+713,0,0,0,1,1,False,False,Contact with confirmed
+722,0,1,0,1,1,False,False,Contact with confirmed
+729,1,1,0,0,1,True,True,Other
+755,1,0,0,0,0,False,True,Other
+757,0,0,0,0,1,False,True,Contact with confirmed
+765,0,1,1,0,1,True,True,Other
+767,0,1,0,1,0,True,True,Other
+768,1,1,0,0,0,True,True,Other
+776,0,0,0,1,1,True,True,Other
+998,1,0,1,0,1,True,False,Contact with confirmed
+3140,1,0,0,0,0,False,False,Abroad
+4732,0,1,0,0,0,False,False,Abroad
+5557,0,1,1,0,0,False,False,Other
+5613,1,0,1,0,1,False,False,Contact with confirmed
+5711,0,1,0,0,0,False,True,Other
+7310,1,1,0,0,1,False,False,Other
+8615,1,1,0,0,0,False,True,Abroad
+9340,1,1,1,1,1,False,False,Abroad
+9454,1,1,0,0,0,False,False,Abroad
+10374,1,1,0,0,0,False,True,Other
+10844,1,0,0,0,0,False,True,Contact with confirmed
+13635,0,1,0,0,0,True,True,Contact with confirmed
+13668,0,0,0,0,0,False,True,Contact with confirmed
+13984,1,1,1,1,1,True,False,Contact with confirmed
+13985,0,0,0,1,0,False,False,Contact with confirmed
+13995,1,0,0,1,1,False,False,Contact with confirmed
+19674,1,0,0,0,0,False,True,Abroad
+19775,0,0,0,1,0,True,False,Other
+19783,1,0,0,0,1,True,True,Other
+19798,0,1,1,0,1,True,False,Other
+19809,0,1,1,0,1,True,False,Contact with confirmed
+19814,1,0,1,0,0,True,True,Other
+19816,1,1,1,0,1,True,True,Other
+19817,1,1,0,1,0,True,True,Other
+19845,1,0,1,0,1,True,True,Other
+19852,1,1,1,1,0,True,False,Contact with confirmed
+19871,1,1,1,0,1,True,False,Contact with confirmed
+19898,1,0,1,0,0,False,False,Other
+19906,0,0,1,1,0,True,False,Other
+19982,1,1,0,1,0,True,False,Other
+20011,0,0,1,0,0,False,False,Other
+20108,0,0,0,1,0,True,False,Contact with confirmed
+20134,0,1,1,0,0,False,False,Contact with confirmed
+20188,0,0,1,0,1,False,False,Other
+20319,0,1,0,1,0,False,True,Contact with confirmed
+20674,1,0,0,0,1,False,False,Other
+20752,0,0,0,1,1,True,False,Contact with confirmed
+20757,1,0,1,1,0,True,False,Contact with confirmed
+20836,1,0,0,1,0,False,False,Contact with confirmed
+20993,1,1,1,1,0,True,False,Other
+21036,1,0,0,1,1,True,True,Other
+21038,0,0,0,1,1,False,True,Other
+21073,0,1,1,1,1,True,False,Contact with confirmed
+21082,1,1,0,1,1,True,True,Other
+21104,1,1,1,0,0,True,True,Contact with confirmed
+21230,1,0,0,1,0,True,False,Other
+26660,0,0,0,1,1,True,False,Other
+26668,1,0,1,0,1,False,False,Other
+27490,0,0,0,1,0,False,False,Other
+35033,1,0,0,1,0,False,False,Other
+35383,1,1,1,1,1,False,False,Contact with confirmed
+40534,0,0,1,0,1,True,True,Other
+40620,0,1,0,0,1,True,True,Contact with confirmed
+40680,1,0,0,1,0,False,True,Other
+40683,0,0,1,0,1,False,True,Other
+40697,0,1,0,0,1,True,True,Other
+40709,0,0,0,1,0,True,True,Other
+40723,1,1,0,1,1,True,False,Contact with confirmed
+40731,1,0,0,1,0,True,False,Contact with confirmed
+40754,1,1,0,0,1,True,True,Contact with confirmed
+40842,0,1,1,1,0,True,False,Other
+41003,1,1,1,0,1,False,False,Other
+41049,0,1,0,1,0,False,False,Other
+41075,1,1,0,1,0,False,False,Other
+41196,0,1,0,0,1,False,False,Abroad
+41210,1,1,0,1,1,True,False,Other
+41220,0,1,0,1,0,True,False,Other
+41265,1,0,0,1,1,False,False,Other
+41965,1,0,0,0,1,True,True,Contact with confirmed
+42421,1,0,1,0,0,True,True,Contact with confirmed
+42422,0,1,0,1,1,True,False,Other
+42449,1,0,1,0,0,False,True,Contact with confirmed
+42563,0,0,0,0,0,True,False,Abroad
+55060,1,0,1,0,1,False,False,Abroad
+59472,0,1,0,1,0,False,True,Other
+65466,1,0,1,0,1,False,True,Contact with confirmed
+65670,0,0,1,0,0,True,True,Contact with confirmed
+65682,0,0,0,1,0,False,True,Other
+65828,1,0,1,1,0,True,False,Other
+65853,1,1,1,1,1,False,False,Other
+65874,1,0,1,1,1,False,False,Contact with confirmed
+66208,0,1,1,0,0,True,True,Contact with confirmed
+66321,0,0,1,1,0,False,False,Contact with confirmed
+66440,1,1,0,1,0,False,False,Contact with confirmed
+67121,0,1,1,0,0,True,True,Other
+67506,1,0,0,0,0,True,False,Abroad
+67677,1,1,0,0,0,False,True,Contact with confirmed
+67756,1,1,1,0,1,False,True,Contact with confirmed
+67812,1,1,1,0,1,True,True,Contact with confirmed
+73600,0,0,0,1,0,False,True,Contact with confirmed
+73613,0,1,0,1,0,True,True,Contact with confirmed
+78474,0,0,0,0,0,False,True,Abroad
+89405,1,1,1,0,0,True,True,Other
+89587,1,0,1,0,1,True,True,Contact with confirmed
+89665,0,0,1,0,1,True,True,Contact with confirmed
+89745,1,1,0,1,1,False,True,Contact with confirmed
+89975,0,0,1,1,1,False,False,Other
+90282,1,0,0,0,1,False,True,Contact with confirmed
+90302,1,1,0,1,0,True,True,Contact with confirmed
+90458,1,0,0,1,1,True,False,Other
+91442,1,0,0,1,0,True,True,Contact with confirmed
+91490,1,0,1,1,1,False,False,Other
+91536,0,1,0,0,0,False,True,Contact with confirmed
+92064,0,0,1,1,1,True,False,Other
+92256,0,0,0,1,1,True,True,Contact with confirmed
+93578,0,0,0,1,0,False,False,Abroad
+96691,1,1,1,0,0,False,False,Abroad
+110635,1,1,1,1,1,True,True,Other
+110762,0,1,0,0,1,False,True,Other
+110764,0,1,0,0,1,False,True,Contact with confirmed
+111105,0,1,0,1,1,True,True,Other
+111269,0,1,0,1,0,False,False,Contact with confirmed
+111905,1,1,1,0,0,False,True,Contact with confirmed
+112331,0,0,0,1,1,False,False,Other
+112433,0,1,1,0,1,True,True,Contact with confirmed
+112559,0,0,1,1,1,True,True,Other
+133503,1,1,1,1,0,True,True,Other
+133506,1,0,0,0,1,False,True,Other
+134342,1,0,1,1,0,False,False,Other
+134441,0,0,0,0,1,False,True,Other
+134458,1,0,1,1,1,True,True,Other
+137883,1,0,1,0,0,False,False,Abroad
+138835,0,0,1,1,1,True,False,Contact with confirmed
+144819,0,0,1,1,1,True,True,Contact with confirmed
+145439,0,1,1,1,1,True,False,Other
+147521,1,1,1,1,1,True,True,Contact with confirmed
+154802,0,1,1,1,1,True,True,Contact with confirmed
+173058,0,0,1,0,1,False,True,Contact with confirmed
+173323,0,0,1,1,0,True,False,Contact with confirmed
+174282,1,0,1,0,1,False,True,Other
+174395,0,0,1,0,0,False,True,Contact with confirmed
+175475,1,1,0,1,1,False,False,Other
+175626,0,1,1,1,1,False,False,Contact with confirmed
+176159,0,0,1,0,0,True,False,Abroad
+204626,1,0,1,0,0,False,True,Other
+205916,1,1,0,0,1,False,True,Contact with confirmed
+210188,1,0,1,0,0,False,True,Abroad
+222718,1,0,0,0,1,False,False,Abroad
+236686,1,1,1,0,0,False,True,Other
+238046,0,1,1,0,0,False,True,Other
+245966,1,1,0,1,1,False,False,Contact with confirmed
+254036,0,0,1,1,1,False,False,Contact with confirmed
+259798,1,0,1,1,0,False,False,Contact with confirmed
+271295,0,1,0,1,1,False,False,Other
+281856,1,0,0,1,1,True,True,Contact with confirmed
+285179,0,0,0,1,1,False,True,Contact with confirmed
+287683,0,1,0,0,0,True,False,Abroad
+287825,1,1,0,1,1,True,True,Contact with confirmed
+314251,1,1,0,0,0,True,False,Abroad
+328198,0,1,1,1,0,False,False,Other
+340364,0,0,1,0,0,False,False,Abroad
+349970,0,1,0,1,0,False,False,Abroad
+359097,0,0,1,1,0,False,False,Other
+363730,0,1,1,0,1,False,False,Abroad
+363804,0,1,1,1,0,True,False,Contact with confirmed
+363909,1,1,0,0,1,False,True,Other
+363922,1,1,0,0,0,True,True,Abroad
+364375,0,0,0,0,0,True,True,Abroad
+380212,1,0,0,1,0,False,False,Abroad
+390136,0,1,1,1,1,False,False,Other
+391304,0,1,0,1,1,True,True,Contact with confirmed
+419156,1,1,1,1,0,False,False,Contact with confirmed
+444262,1,1,1,0,1,False,True,Other
+444805,0,0,1,1,0,False,True,Other
+445173,0,1,0,0,1,False,True,Abroad
+446284,0,0,1,0,1,True,False,Abroad
+479916,0,1,1,1,0,True,True,Other
+481766,1,0,0,1,0,False,True,Contact with confirmed
+482051,1,0,1,1,1,True,True,Contact with confirmed
+483905,0,1,1,0,0,False,False,Abroad
+490861,0,0,1,0,0,False,True,Other
+491522,1,0,1,1,0,False,False,Abroad
+512717,0,0,1,1,0,True,True,Other
+512740,0,1,1,1,0,False,False,Contact with confirmed
+516928,0,0,1,1,0,True,True,Contact with confirmed
+527645,1,0,1,0,1,True,False,Abroad
+538446,1,1,0,1,0,False,True,Other
+547815,0,0,0,0,1,True,False,Abroad
+551172,0,0,1,1,1,False,True,Contact with confirmed
+569829,0,1,1,0,1,False,True,Contact with confirmed
+573825,0,1,1,0,0,True,False,Abroad
+574813,1,1,0,0,1,False,False,Abroad
+605137,1,1,0,0,1,True,False,Abroad
+606741,0,1,1,1,1,True,True,Other
+606935,0,0,0,0,1,False,False,Abroad
+630714,0,0,1,0,0,False,True,Abroad
+639411,0,0,0,0,1,True,True,Abroad
+639679,1,1,1,1,0,False,False,Other
+653105,1,1,0,1,0,False,False,Abroad
+666123,1,0,0,1,1,False,True,Other
+667972,0,1,0,1,1,False,True,Other
+669304,0,1,1,0,0,False,True,Contact with confirmed
+699813,1,0,1,1,0,True,True,Other
+701520,1,1,1,1,0,True,True,Contact with confirmed
+737453,0,1,1,0,0,True,True,Abroad
+741292,0,1,1,1,1,False,True,Other
+743070,1,1,0,1,1,False,True,Other
+772350,0,1,1,1,0,True,True,Contact with confirmed
+773100,1,0,1,1,0,True,True,Contact with confirmed
+773297,1,1,1,0,1,False,False,Abroad
+773340,0,0,1,0,1,False,False,Abroad
+808832,0,1,0,0,0,False,True,Abroad
+828548,1,0,0,0,1,False,True,Abroad
+832903,1,0,0,1,1,False,True,Contact with confirmed
+864533,1,0,0,0,1,True,True,Abroad
+864955,1,0,1,1,0,False,True,Other
+868932,0,1,1,0,1,False,True,Other
+918293,1,1,0,1,0,False,True,Contact with confirmed
+918673,1,1,1,1,0,False,True,Contact with confirmed
+921871,0,0,0,0,1,False,True,Abroad
+941899,1,0,0,1,0,False,True,Abroad
+950237,0,1,0,0,1,True,False,Abroad
+953985,1,0,1,1,0,False,True,Contact with confirmed
+953989,1,1,1,0,1,False,True,Abroad
+976813,1,1,1,0,0,False,True,Abroad
+1072238,1,1,0,1,0,True,False,Abroad
+1095144,0,1,1,0,1,False,True,Abroad
+1095288,1,1,0,0,1,False,True,Abroad
+1121548,0,0,1,1,0,False,True,Abroad
+1124561,0,0,1,1,0,False,True,Contact with confirmed
+1189460,0,0,0,1,1,False,False,Abroad
+1277952,1,1,0,1,1,False,False,Abroad
+1279213,1,0,0,0,0,True,True,Abroad
+1305714,1,1,1,1,1,False,True,Contact with confirmed
+1306731,1,0,1,1,1,False,True,Other
+1334737,0,0,1,1,1,False,False,Abroad
+1368889,1,1,1,1,1,False,True,Other
+1542869,0,1,1,1,1,False,False,Abroad
+1575281,1,0,1,0,0,True,False,Abroad
+1641891,1,0,1,1,1,False,True,Contact with confirmed
+1653523,0,0,1,1,0,False,False,Abroad
+1661931,0,1,1,1,0,False,True,Other
+1777155,0,1,0,1,0,True,False,Abroad
+1781224,0,1,0,1,1,False,True,Contact with confirmed
+1816287,1,0,0,1,1,False,False,Abroad
+1904769,0,1,1,0,0,False,True,Abroad
+2061681,0,0,1,1,1,False,True,Other
+2145590,1,0,1,0,1,False,True,Abroad
+2435020,1,1,1,1,0,False,True,Other
+2436007,0,1,1,1,0,False,True,Contact with confirmed
+2518732,1,0,1,1,0,True,False,Abroad
+2575481,0,1,1,1,1,False,True,Contact with confirmed
+2898624,0,0,0,1,0,False,True,Abroad
+3002403,0,1,0,1,1,False,False,Abroad
+3154329,1,1,1,0,0,True,False,Abroad
+3202994,1,1,1,1,1,True,False,Abroad
+3535210,1,0,1,1,1,False,False,Abroad
+3583201,0,1,0,0,0,True,True,Abroad
+3676573,1,0,0,0,1,True,False,Abroad
+3678658,0,1,0,1,0,True,True,Abroad
+3730200,1,0,0,1,0,True,False,Abroad
+3820461,1,1,1,0,1,True,False,Abroad
+3873761,0,1,0,1,1,True,False,Abroad
+3965472,0,1,0,0,1,True,True,Abroad
+4107468,1,1,1,1,0,True,False,Abroad
+4111654,1,1,0,1,1,True,False,Abroad
+4112490,1,0,1,1,1,True,False,Abroad
+4114564,0,0,1,0,1,True,True,Abroad
+4134489,0,0,0,1,0,True,False,Abroad
+4171063,0,1,1,0,1,True,False,Abroad
+4384920,1,1,0,0,1,True,True,Abroad
+4637747,1,0,1,0,0,True,True,Abroad
+4918853,0,1,1,1,0,False,False,Abroad
+4924958,1,1,1,0,0,True,True,Abroad
+5010389,0,1,0,1,0,False,True,Abroad
+5126813,1,0,1,1,0,False,True,Abroad
+5197091,0,0,1,0,1,False,True,Abroad
+5238500,0,0,0,1,1,False,True,Abroad
+5337222,0,0,0,1,1,True,False,Abroad
+5738827,0,1,0,1,1,False,True,Abroad
+5758238,1,0,0,1,0,True,True,Abroad
+5783031,0,0,0,1,0,True,True,Abroad
+5799586,1,1,0,1,0,True,True,Abroad
+5812772,1,0,1,0,1,True,True,Abroad
+5813764,1,0,0,1,1,True,False,Abroad
+5823679,1,1,1,1,0,True,True,Abroad
+5824886,0,1,1,0,1,True,True,Abroad
+5825889,0,0,1,0,0,True,True,Abroad
+5826003,1,1,1,0,1,True,True,Abroad
+5826253,1,0,1,1,1,True,True,Abroad
+5834997,0,1,1,1,0,True,False,Abroad
+5837250,0,1,0,1,1,True,True,Abroad
+5848079,1,1,0,1,1,False,True,Abroad
+5856327,0,0,1,1,1,True,False,Abroad
+5856442,0,1,1,1,1,True,False,Abroad
+5856959,1,1,0,1,1,True,True,Abroad
